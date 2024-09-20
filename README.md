@@ -58,14 +58,7 @@ The following is an example of how the GUI looks when an image is loaded and a b
 
 ![Example GUI](impactLab_GUI.png)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to [Image Source] for the sample images used in this project.
-- Inspired by image processing techniques and C++/CLI programming.
 
 ---
 
