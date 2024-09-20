@@ -56,7 +56,7 @@ This project is a graphical user interface (GUI) application developed in C++/CL
 
 The following is an example of how the GUI looks when an image is loaded and a black-and-white filter is applied.
 
-![Example GUI](./path/to/example_gui.png)
+![Example GUI](impactLab_GUI)
 
 ## License
 
