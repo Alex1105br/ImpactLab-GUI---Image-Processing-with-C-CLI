@@ -1,0 +1,11 @@
+﻿  GUI_Form.cpp
+C:\Users\Alex Viana\Desktop\Trabalho 1 Impact Lab - Arq_Het\Impact Lab Trab 1\Impact Lab Trab 1\GUI_Form.h(420,26): warning C4244: 'inicializando': conversão de 'double' para 'unsigned char', possível perda de dados
+  (compilando o arquivo fonte 'GUI_Form.cpp')
+  
+  Origem.cpp
+C:\Users\Alex Viana\Desktop\Trabalho 1 Impact Lab - Arq_Het\Impact Lab Trab 1\Impact Lab Trab 1\GUI_Form.h(420,26): warning C4244: 'inicializando': conversão de 'double' para 'unsigned char', possível perda de dados
+  (compilando o arquivo fonte 'Origem.cpp')
+  
+  Gerando Código...
+  GUI_Form.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  Impact Lab Trab 1.vcxproj -> C:\Users\Alex Viana\Desktop\Trabalho 1 Impact Lab - Arq_Het\Impact Lab Trab 1\x64\Debug\Impact Lab Trab 1.exe
