@@ -28,7 +28,7 @@ This project is a graphical user interface (GUI) application developed in C++/CL
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/impactLab-gui.git
+   git clone https://github.com/Alex1105br/ImpactLab-GUI---Image-Processing-with-C-CLI.git
    cd impactLab-gui
    ```
 
@@ -56,7 +56,7 @@ This project is a graphical user interface (GUI) application developed in C++/CL
 
 The following is an example of how the GUI looks when an image is loaded and a black-and-white filter is applied.
 
-![Example GUI](impactLab_GUI)
+![Example GUI](impactLab_GUI.png)
 
 ## License
 
