@@ -16,7 +16,7 @@ This project is a graphical user interface (GUI) application developed in C++/CL
 
 ## GUI Overview
 
-![ImpactLab GUI](./path/to/impactLab_GUI.png)
+![ImpactLab GUI](impactLab_GUI_Overview.png)
 
 ### Layout Description
 
