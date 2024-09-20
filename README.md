@@ -16,7 +16,7 @@ This project is a graphical user interface (GUI) application developed in C++/CL
 
 ## GUI Overview
 
-![ImpactLab GUI](impactLab_GUI_Overview.png)
+![ImpactLab GUI](Impact_Lab_GUI_Overview.png)
 
 ### Layout Description
 
@@ -56,7 +56,7 @@ This project is a graphical user interface (GUI) application developed in C++/CL
 
 The following is an example of how the GUI looks when an image is loaded and a black-and-white filter is applied.
 
-![Example GUI](impactLab_GUI.png)
+![Example GUI](Impact_Lab_GUI.png)
 
 
 
